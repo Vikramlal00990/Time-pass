@@ -1,5 +1,6 @@
 [build]
 builder = "nixpacks"
+buildCommand = "go build -o server ./cmd"
 
 [deploy]
 startCommand = "./server"
