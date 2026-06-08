@@ -1,6 +1,6 @@
 module github.com/L0ed0/datadome-solver
 
-go 1.25.0
+go 1.21.0
 
 require (
 	github.com/refraction-networking/utls v1.8.2
